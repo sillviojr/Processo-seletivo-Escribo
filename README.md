@@ -3,7 +3,7 @@
 Olá, me chamo Silvio e estou na fase 1 do processo seletivo da Escribo! 
 Segue abaixo as instruções para que o código execute em sua máquina.
 
-Para rodarmos o código precisaremos clonar ou baixar este repositório em sua máquina.
+Para rodarmos o código precisaremos clonar ou baixar este repositório em sua máquina e precisaremos ter também o dart instalado na máquina.
 
 Após isso basta abrir a e lá você encontrará o arquivo chamado `testeTec.dart`.
 
